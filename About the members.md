@@ -13,4 +13,4 @@ Hello World! My name is Shubhank Saxena. I am a profound geek with a bits and by
 
 
 **Aman Arora**
-Hey there! I am Aman, a persiung electronics and communication heart, but loving computer science by soul. I am a constant learner, and have experience in Front-end web development, VLSI Digital Design using VHDL, Internet of Things, and nowadays I have become a Flutter-fan! Looking forward to be useful!
+Hey there! I am persiung electronics and communication heart, but loving computer science by soul. I have experience in Front-end web development, VLSI Digital Design using VHDL, Internet of Things, and nowadays I have become a Flutter-fan! Looking forward to be useful!
