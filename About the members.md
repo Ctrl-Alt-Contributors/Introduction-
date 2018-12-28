@@ -10,3 +10,7 @@ I am a first year computer engineering student from Thapar University, Patiala. 
 
 **Shubhank Saxena**
 Hello World! My name is Shubhank Saxena. I am a profound geek with a bits and bytes knowledge of everything around me. I have experience in WebDev(Full stack), Internet of Things, Blockchain. Feel free to reach out!
+
+
+**Aman Arora**
+Hey there! I am Aman, a persiung electronics and communication heart, but loving computer science by soul. I am a constant learner, and have experience in Front-end web development, VLSI Digital Design using VHDL, Internet of Things, and nowadays I have become a Flutter-fan! Looking forward to be useful!
