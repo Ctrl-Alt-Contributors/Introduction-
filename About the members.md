@@ -1,10 +1,10 @@
-Once you join start filling out your name and a little about yourself 
+Once you join start filling out your name and a little about yourself
 
 ## About Me ##
 
 Members
 
-**Jaskeerat Singh Randhawa** 
+**Jaskeerat Singh Randhawa**
 I am a first year computer engineering student from Thapar University, Patiala. I have just stepped into the world of development. I have been playing with computer science from past 4 years and have a good command over python, java and JS. Hope to do something productive for the org.
 
 
@@ -14,3 +14,6 @@ Hello World! My name is Shubhank Saxena. I am a profound geek with a bits and by
 
 **Aman Arora**
 Hey there! I am persiung electronics and communication heart, but loving computer science by soul. I have experience in Front-end web development, VLSI Digital Design using VHDL, Internet of Things, and nowadays I have become a Flutter-fan! Looking forward to be useful!
+
+**Kaushlendra Pratap**
+Hello world!! I am Kaushlendra Pratap . I am 2 year Computer science Undergrad from Amity University. I am intrested more towards ML and Deep Learning , i have good command over python , java and GO. Looking forward to be useful for the org.
