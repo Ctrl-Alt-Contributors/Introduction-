@@ -13,11 +13,14 @@ Hello World! My name is Shubhank Saxena. I am a profound geek with a bits and by
 
 
 **Aman Arora**
-Hey there! I am persiung electronics and communication heart, but loving computer science by soul. I have experience in Front-end web development, VLSI Digital Design using VHDL, Internet of Things, and nowadays I have become a Flutter-fan! Looking forward to be useful!
- master
+Hey there! I am pursuing electronics and communication by heart, but loving computer science by soul. I have experience in Front-end web development, VLSI Digital Design using VHDL, Internet of Things, and nowadays I have become a Flutter-fan! Looking forward to being useful!
+
+**Shankho Boron Ghosh**
+Hey Universe. I am Shankho, your go to jugaad guy. I have a variety of interests ranging from physics to computer science. I am freshman pursuing electronics, having experience in python, IoT and exploring more areas.
  
 **Kaushlendra Pratap**
 Hello world!! I am Kaushlendra Pratap . I am 2 year Computer science Undergrad from Amity University. I am intrested more towards ML and Deep Learning , i have good command over python , java and GO. Looking forward to be useful for the org.
 
 **Eric López**
-Hi guys! My name is Eric López, an undergraduate computer engineering student from ESCOM IPN. Epistemophile and supporter of the open-source community. I have experience in electronics using VHDL, IoT and databases. I hope to be useful to the org and work together with everyone.   master
+Hi guys! My name is Eric López, an undergraduate computer engineering student from ESCOM IPN. Epistemophile and supporter of the open-source community. I have experience in electronics using VHDL, IoT and databases. I hope to be useful to the org and work together with everyone.
+
