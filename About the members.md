@@ -21,3 +21,6 @@ Hi guys! My name is Eric López, an undergraduate computer engineering student f
 
 **Shankho Boron Ghosh**
 Hey Universe. I am Shankho, your go to jugaad guy. I have a variety of interests ranging from physics to computer science. I am freshman pursuing electronics, having experience in python, IoT and exploring more areas.
+
+**[Syed Mohd Gulam Baquer](https://github.com/baquer)**
+Hey guys! I am Baquer , a 3rd year undergraduate CSE student. I love to develop iOS Apps 📱 and love to do Competitive Programming 💻 especially NPC problems 😁. I have a good command over Swift , Java and C , and looking forward for pursuing Masters in AI and Deep Learning. Hope to be useful for the Organization.
