@@ -21,3 +21,6 @@ Hi guys! My name is Eric López, an undergraduate computer engineering student f
 
 **Shankho Boron Ghosh**
 Hey Universe. I am Shankho, your go to jugaad guy. I have a variety of interests ranging from physics to computer science. I am freshman pursuing electronics, having experience in python, IoT and exploring more areas.
+
+[Ayush Bhardwaj](https://github.com/hastagAB) Currently, I'm an undergrad at Amity University, Noida persuing engineering Degree in Computer Science. I love to explore technology and always strive to learn a new skill.
+I am a Data Science Learner & Machine Learning Enthusiast and looking forward to being a Machine learning engineer or an ML researcher. Skills I have acquired till now : Proficiency in C/C++, Python(Developer & Data Science Specialization), kivy, Linux, HTML5, CSS3,SQL, Google Cloud, Tensorflow.
