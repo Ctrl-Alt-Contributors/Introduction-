@@ -6,3 +6,5 @@ Hey my name is **ISHAAN MALIK** and I have created this org to make everything a
 in things they do or try learning . But only thing accepted here is hard work and creativity.
 
 **Rest everything is mentioned in the Go through this file.md :earth_asia: file **
+
+If want to join the communityor any doubts please ping me [here](ishaanmalikrm7@gmail.com)
