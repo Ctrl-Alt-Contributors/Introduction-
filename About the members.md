@@ -22,5 +22,11 @@ Hi guys! My name is Eric López, an undergraduate computer engineering student f
 **Shankho Boron Ghosh**
 Hey Universe. I am Shankho, your go to jugaad guy. I have a variety of interests ranging from physics to computer science. I am freshman pursuing electronics, having experience in python, IoT and exploring more areas.
 
-[Ayush Bhardwaj](https://github.com/hastagAB) Currently, I'm an undergrad at Amity University, Noida persuing engineering Degree in Computer Science. I love to explore technology and always strive to learn a new skill.
-I am a Data Science Learner & Machine Learning Enthusiast and looking forward to being a Machine learning engineer or an ML researcher. Skills I have acquired till now : Proficiency in C/C++, Python(Developer & Data Science Specialization), kivy, Linux, HTML5, CSS3,SQL, Google Cloud, Tensorflow.
+**Dushyant Singh**
+Hi there, I am Dushyant. I am currently working as Software Engineer(Android) at BYJU's. During my spare time, I love to learn new technologies and take part in competitive programming contests held on website like Topcoder, Codeforces, Codechef etc.
+
+**[Syed Mohd Gulam Baquer](https://github.com/baquer)**
+Hey guys! I am Baquer , a 3rd year undergraduate CSE student. I love to develop iOS Apps 📱 and love to do Competitive Programming 💻 especially NPC problems 😁. I have a good command over Swift , Java and C , and looking forward for pursuing Masters in AI and Deep Learning. Hope to be useful for the Organization.
+
+**[Ayush Bhardwaj](https://github.com/hastagAB)**
+Currently, I'm an undergrad  in Computer Science. I love to explore technology and always strive to learn a new skill.I am a Data Science Learner & Machine Learning Enthusiast. Skills I have acquired till now : Proficiency in C/C++, Python,kivy, Linux, HTML5, CSS3,SQL, Google Cloud, Tensorflow.
