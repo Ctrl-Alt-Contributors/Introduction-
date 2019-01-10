@@ -27,3 +27,6 @@ Hi there, I am Dushyant. I am currently working as Software Engineer(Android) at
 
 **[Syed Mohd Gulam Baquer](https://github.com/baquer)**
 Hey guys! I am Baquer , a 3rd year undergraduate CSE student. I love to develop iOS Apps 📱 and love to do Competitive Programming 💻 especially NPC problems 😁. I have a good command over Swift , Java and C , and looking forward for pursuing Masters in AI and Deep Learning. Hope to be useful for the Organization.
+
+**[Ayush Bhardwaj](https://github.com/hastagAB)**
+Currently, I'm an undergrad  in Computer Science. I love to explore technology and always strive to learn a new skill.I am a Data Science Learner & Machine Learning Enthusiast. Skills I have acquired till now : Proficiency in C/C++, Python,kivy, Linux, HTML5, CSS3,SQL, Google Cloud, Tensorflow.
