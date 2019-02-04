@@ -30,3 +30,5 @@ Hey guys! I am Baquer , a 3rd year undergraduate CSE student. I love to develop 
 
 **[Ayush Bhardwaj](https://github.com/hastagAB)**
 Currently, I'm an undergrad  in Computer Science. I love to explore technology and always strive to learn a new skill.I am a Data Science Learner & Machine Learning Enthusiast. Skills I have acquired till now : Proficiency in C/C++, Python,kivy, Linux, HTML5, CSS3,SQL, Google Cloud, Tensorflow.
+
+**[Biswajit Roy](https://github.com/Biswajee)** Hi, I'm Biswajit Roy, CSE Senior at Burdwan University. I love hackathons and competitive coding. I am Alibaba Cloud certified and have been invited twice by Google Foobar. I look forward to contributing to this community.  
