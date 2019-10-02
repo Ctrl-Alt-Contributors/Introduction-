@@ -5,6 +5,6 @@ and for that this Org has been created.
 Hey, my name is **ISHAAN** and I have created this Org to make everything available and make people comfortable
 with things they do or try learning. But only thing accepted here is hard work and creativity.
 
-**Rest everything is mentioned in the [Go through this.md](Go through this.md) :earth_asia: file**.
+**Rest everything is mentioned in the [Go through this.md](Go-through-this.md) :earth_asia: file**.
 
-If you want to join the community or have any doubts, please ping me [here](ishaanmalikrm7@gmail.com).
+If you want to join the community or have any doubts, please ping me [here](mailto:ishaanmalikrm7@gmail.com).
